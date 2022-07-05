@@ -79,7 +79,7 @@ def main_window():
         win.resizable(False, False)
         win.iconbitmap("Data\\ico.ico")
         label=customtkinter.CTkLabel(master=win,text="This is a Windows Optimizer made by RGH\nPlease consider supporting him.",text_color="#00ffbb",text_font=("Neon Zone",15,BOLD))
-        label.pack(side=TOP,pady=15)
+        label.pack(side=TOP,pady=36)
         WIDTH1=550
         HEIGHT1=130
         x=(screen_width/2)-(WIDTH1/2)

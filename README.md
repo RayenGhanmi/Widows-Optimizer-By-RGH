@@ -4,7 +4,7 @@ This is a windows optimizer 2.0.1 by RGH, and this is my first project using pyt
 
 ![4](https://user-images.githubusercontent.com/108760398/177418015-95617961-7733-44a5-8abb-a86a994d4643.png)
 
-When using it you have 3 choices:
+When using it you will get 3 choices/stages:
 
 1. Fix, to fix any corrupted Windows files and to scan for viruses.
 

@@ -1,6 +1,6 @@
 # RGH Optimizer 2.0.1
 
-Download link: https://www.mediafire.com/file/g2p57ykci1ybzwz/RGH+Optimizer+2.0.1-beta.zip/file
+Download link: 
 
 ![4](https://user-images.githubusercontent.com/108760398/177418015-95617961-7733-44a5-8abb-a86a994d4643.png)
 

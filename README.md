@@ -1,7 +1,5 @@
 # RGH Optimizer 2.0.1
 
-Download link: 
-
 ![4](https://user-images.githubusercontent.com/108760398/177418015-95617961-7733-44a5-8abb-a86a994d4643.png)
 
 This is a windows optimizer 2.0.1 by RGH, and this is my firs project, using python.

@@ -14,7 +14,7 @@ When using it you have 3 choices:
 
 ![Untitled](https://user-images.githubusercontent.com/108760398/177415745-ad1e85f5-cb85-43b2-a881-2447bb1e5e17.png)
 
-Be sure to use the optimizer.py file in the same directory as the "Data" folder.
+If you want to use to source code, be sure to run the optimizer.py file in the same directory as the "Data" folder.
 
 You can review the code and suggest new features or report a bug, to make the optimizer better, follow me and send a feedback.
 

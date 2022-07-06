@@ -1,16 +1,16 @@
 # RGH Optimizer 2.0.1
 
-This is a windows optimizer 2.0.1 by RGH, and this is my firs project, using python.
+This is a windows optimizer 2.0.1 by RGH, and this is my first project using python.
 
 ![4](https://user-images.githubusercontent.com/108760398/177418015-95617961-7733-44a5-8abb-a86a994d4643.png)
 
 When using it you have 3 choices:
 
-1.Fix, to fix any corrupted Windows files and to scan for viruses.
+1. Fix, to fix any corrupted Windows files and to scan for viruses.
 
-2.Debloat, to remove all the bloatware in Windows 11 or 10.
+2. Debloat, to remove all the bloatware in Windows 11 or 10.
 
-3.Optimize, to apply registery tweaks and to optimize Windows's settings.
+3. Optimize, to apply registery tweaks and to optimize Windows's settings.
 
 ![Untitled](https://user-images.githubusercontent.com/108760398/177415745-ad1e85f5-cb85-43b2-a881-2447bb1e5e17.png)
 
